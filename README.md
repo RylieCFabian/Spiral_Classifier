@@ -1,9 +1,6 @@
-# Spiral_Classifier
+# My First Neural Network created in Python
 
-2-64-1 Architecture Neural Network built from Scratch.
+Being intrigued by Artificial Intelligence, I wanted to create my first ever Neural Network the "HARD WAY" and by "SCRATCH" -using Numpy. 
+Through this README , I'm going to explain the purpose of the code I created, the challenges I faces, and the potential adjustments I will make in the future.
 
-This is just a demonstration of what I learned, building a Neural Network from scratch using Numpy...
-
-
-hello
-
+##Purpose
