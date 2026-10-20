@@ -34,6 +34,10 @@ I'm going to clarify what challenges I came across in the future
 I dislike calculus 3. DANG DOUBLE DIRVITIVES!
 **I will put the math part soon in the future**
 
+## Addons
+For sure I think I need to clean up my code. The notebook is too dense and the function coded for all the math functions are on one section. 
+I also think maybe turning the model to be trained on images to classify certain items and shapes would be the next big step.
+
 ## ⬇️ Installation
 
 The installation isn't too hard but I'm going to assume that you have some experience navigating your machines Terminal system. 
