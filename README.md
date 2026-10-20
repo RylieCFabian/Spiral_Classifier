@@ -1,20 +1,22 @@
-# 📦 My Package
+# My First Neural Network
 
-(add your badges here)
+Being Intrigued with the capabilities of Artificial Intelligence, I wanted to create a Neural Network to further understand how Deep Neural Networks worked. Though wanting to challenge myself, I wanted to create the Neural Network by "scratch" using Numpy. 
 
-> *Your documentation is a direct reflection of your software, so hold it to the same standards.*
-
+This README will showcase my progress through this project.
 
 ## 🌟 Highlights
 
-- Some functionality made easy!
-- This problem handled
-- etc.
+- Overview of the project
+- Challenges I faced
+- THE MATH!!!
+- Potential additions
 
 
 ## ℹ️ Overview
 
-A paragraph explaining your work, who you are, and why you made it.
+This project was mostly a followed tutorial I went through from a book I purchased. This book being from [nnfs.io](https://nnfs.io/). It goes through all the necessary procedures and calculation regarding Neural Networks. I highly recommend this book to anybody wanting to understand the building blocks for Neural Networks.
+
+Anyways, the book's main Neural Network is a classifier for three distinct Spiral Functions. All in which the neural network will try to classify (x,y) points that correspond to a Spiral Function. 
 
 
 ### ✍️ Authors
