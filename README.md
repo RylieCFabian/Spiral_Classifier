@@ -20,38 +20,29 @@ Anyways, the book's main Neural Network is a classifier for three distinct Spira
 
 ### Architecture 
 
+For my fellow beginner Machine learning nerds, the models architecture is a **2 - 64 - 1** layer model Neural Network. As of now the activation function is just a basic **ReLu (Rectified Linear Units)** and **sigmoid** function, with the loss being calculated with a **Binary Cross entropy** function.
 
-### ✍️ Authors
-
-Mention who you are and link to your GitHub or organization's website.
-
+The architecture will definitely change in future based on what I want the model to do next.
 
 ## 🚀 Usage
+As of now this doesn't really have any real life problem solving capabilities but in the future, I may change that! Make sure to follow up on my changes.
 
-*Show off what your software looks like in action! Try to limit it to one-liners if possible and don't delve into API specifics.*
+## Challenges
+I'm going to clarify what challenges I cam across in the future
 
-```py
->>> import mypackage
->>> mypackage.do_stuff()
-'Oh yeah!'
-```
-
+## MATH!!!
+I dislike calculus 3. DANG DOUBLE DIRVITIVES!
+**I will put the math part soon in the future**
 
 ## ⬇️ Installation
 
-Simple, understandable installation instructions!
+The installation isn't too hard but I'm going to assume that you have some experience navigating your machines Terminal system. 
 
-```bash
-pip install my-package
-```
+In order for the my jupiter notebook to work for you, their is an requirement.txt file that gives all the necessary libraries and datasets needed to run the file. In the future I may implement a video for you to follow but as of now, I'm getting my butt kicked in school so it won't come any time soon.
 
-And be sure to specify any other minimum requirements like Python versions or operating systems.
-
-*You may be inclined to add development instructions here, don't.*
+Also the python version i was running was 3.14 and above for this module. 
 
 
 ## 💭 Feedback and Contributing
 
-Add a link to the Discussions tab in your repo and invite users to open issues for bugs/feature requests.
-
-This is also a great place to invite others to contribute in any ways that make sense for your project. Point people to your DEVELOPMENT and/or CONTRIBUTING guides if you have them.
+Again, thanks to Harrison Kinsley, who was the author of the book and giving a great explanation behind all the building blocks on a Neural Network. For anybody wanting to code a NN by scratch please purchase their book and take a read!
