@@ -28,7 +28,7 @@ The architecture will definitely change in future based on what I want the model
 As of now this doesn't really have any real life problem solving capabilities but in the future, I may change that! Make sure to follow up on my changes.
 
 ## Challenges
-I'm going to clarify what challenges I cam across in the future
+I'm going to clarify what challenges I came across in the future
 
 ## MATH!!!
 I dislike calculus 3. DANG DOUBLE DIRVITIVES!
